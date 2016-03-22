@@ -487,7 +487,7 @@
       "postparagraph": ""
     },
     {
-      "preparagraph": "There are some methods that take much of the folding work out by providing basic functionality. `sum` will add all the elements, product will multiply, `min` would determine the smallest element, and `max` the largest.",
+      "preparagraph": "There are some methods that take much of the folding work out by providing basic functionality. `sum` will add all the elements, `product` will multiply, `min` would determine the smallest element, and `max` the largest.",
       "code": "val intList = List(5, 4, 3, 2, 1)\nintList.sum should be(__)\nintList.product should be(__)\nintList.max should be(__)\nintList.min should be(__)",
       "solutions": [
         "15",
